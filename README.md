@@ -42,8 +42,7 @@ Keystore placed in `files/keystore/` directory.
 
 ## Connect to private network via parity wallet with ui
 1. Run ethereum private node: `docker-compose up`
-2. Wallet Web UI is available via `http://docker-ip:8180` address   
-3. @todo Add command for generation code       
+2. Wallet Web UI is available via `http://docker-ip:8180` address          
  
  
 ## Unlock accounts via Parity
