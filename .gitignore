@@ -1,0 +1,6 @@
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
+.idea
+address_book.json
+dapps_history.json
