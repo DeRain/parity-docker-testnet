@@ -1,6 +1,10 @@
 # Parity Ethereum Private test network based on Docker Compose
 
+You could use this node for test deployment and interacting with smart contracts for demo.   
+
 ### Run parity testnet
+
+Clone the repository docker and run inside the project folder:  
 
 ```
 $ docker-compose up -d
@@ -37,8 +41,9 @@ Keystore placed in `files/keystore/` directory.
 
 
 ## Connect to private network via parity wallet with ui
-1. Run ethereum private node: `docker-compose up`  
-2. @todo Add command for generation code       
+1. Run ethereum private node: `docker-compose up`
+2. Wallet Web UI is available via `http://docker-ip:8180` address  u  
+3. @todo Add command for generation code       
  
  
 ## Unlock accounts via Parity
